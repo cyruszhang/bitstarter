@@ -2,7 +2,7 @@
 
 var express = require('express');
 var app = express();
-var fs = rerquire('fs');
+var fs = require('fs');
 app.use(express.logger());
 
 app.get('/', function(request, response) {

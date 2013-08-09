@@ -1,7 +1,7 @@
 {
-  "name": "node-js-sample",
+  "name": "bitstarter/oobw by cyruszhang",
   "version": "0.0.2",
-  "description": "a sample node.js app for heroku",
+  "description": "bitstarter/oobw for profit systems, by cyruszhang",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
